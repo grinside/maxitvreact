@@ -26,7 +26,7 @@ export default defineConfig({
     })
   ],
   server: {
-    host: true, // permet l'accès depuis l'extérieur (0.0.0.0)
-    port: 5173 // tu peux changer si tu veux un autre port
+    host: true,
+    port: 5173
   }
 });
