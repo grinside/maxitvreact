@@ -1,0 +1,21 @@
+{
+  "name": "maxit-tv-react",
+  "version": "1.0.0",
+  "description": "Lecteur vidéo type TikTok pour Maxit TV, avec support HLS et PWA",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "hls.js": "^1.5.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^5.0.0",
+    "vite-plugin-pwa": "^0.16.0"
+  }
+}
