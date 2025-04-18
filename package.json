@@ -1,7 +1,7 @@
 {
   "name": "maxit-tv-react",
   "version": "1.0.0",
-  "description": "Lecteur vidéo type TikTok pour Maxit TV, avec support HLS et PWA",
+  "description": "Lecteur vidéo style TikTok pour Maxit TV",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
